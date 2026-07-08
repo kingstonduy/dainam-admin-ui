@@ -45,5 +45,5 @@ export const HOTEL = {
     checkin: "14:00",
     checkout: "12:00",
     amenities: ["WiFi miễn phí", "Bữa sáng", "Bãi đậu xe máy", "Điện thoại"],
-    website: "dainamboutiquehotel.com",
+    website: "www.dainamhotels.com.vn",
 };
